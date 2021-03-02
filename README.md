@@ -58,6 +58,12 @@ successfully identify and sort the data based on lithic and soil microdebitage (
 
 #### Questions to answer
 
+How does Sphericity affect Solidity?
+How does Spericity and Volume Compare
+How does Roundness affect Transparency
+How does Surface compare with Circularity
+How does area and transparency relate
+
 
 
 
